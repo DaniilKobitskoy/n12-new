@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "978524302539",
+    "project_id": "nnn-1bacd",
+    "storage_bucket": "nnn-1bacd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978524302539:android:ef547e96678a069595bf4e",
+        "android_client_info": {
+          "package_name": "app.mostbet.azerbaycan.mostbet.online.mostbet.uzbek.mostbet.mo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978524302539-bq1hoarlb2t95albscnop4vam2659ul9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mostbet.azerbaycan.mostbet.online.mostbet.uzbek.mostbet.mo",
+            "certificate_hash": "0d14565f4e45168af2b1c13d38aee2542f0c3d86"
+          }
+        },
+        {
+          "client_id": "978524302539-ep418n157o8n2k3l1v2dmibu126u331e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeYBDiS0P45WerbJI-Ng6sTmIkAEvVj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978524302539-ep418n157o8n2k3l1v2dmibu126u331e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978524302539:android:1d27b3b36411460295bf4e",
+        "android_client_info": {
+          "package_name": "app.mostbet.azerbaycan.mostbet.online.mostbet.uzbek.mostbet.mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978524302539-ep418n157o8n2k3l1v2dmibu126u331e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeYBDiS0P45WerbJI-Ng6sTmIkAEvVj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978524302539-ep418n157o8n2k3l1v2dmibu126u331e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
